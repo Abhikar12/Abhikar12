@@ -1,11 +1,10 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Abhishek Kusalkar</h1>
-<h3 align="center">A passionate Android Developer From India</h3>
+<h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhikar12&label=Profile%20views&color=0e75b6&style=flat" alt="abhikar12" /> </p>
 
-- 🔭 I’m currently pursuing **BTech in IT**
+- 🔭 I’m currently pursuing **BTech in Information Technology**
 
 - 🌱 I’m currently learning **Android Development**
 
