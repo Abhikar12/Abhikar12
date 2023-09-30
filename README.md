@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kusalkar</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-![dvxcv](https://github.com/AbhiNam08/AbhiNam08/assets/113370126/4278546e-112f-4492-9515-acaf8ce7f77a)
+
 
 - 🔭 I’m currently pursuing **BTech in Information Technology**
 
