@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kusalkar</h1>
 <h3 align="center">A passionate Java Developer</h3>
 
-![Mazi Namu](https://github.com/Abhikar12/Abhikar12/assets/113370126/27655fd6-5b61-459b-bbeb-31b551ac9a5a)
-
 
 - 🔭 I’m currently pursuing **BTech in Information Technology**
 
